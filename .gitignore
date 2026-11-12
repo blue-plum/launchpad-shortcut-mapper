@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.spec
+build/
+dist/
+work/
+*.exe
+*.zip
+*.lpm
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+
